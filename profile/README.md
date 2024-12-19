@@ -42,12 +42,12 @@
   <p>3. Solve the CAPTCHA and click “Login” to access your account.</p>
   <div style="display:flex; justify-content:space-between;">
     <figure>
-      <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-4-550x1024.webp" 
-           alt="Solve CAPTCHA" style="width:366px;" />
-    </figure>
-    <figure>
       <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-3-541x1024.webp" 
            alt="Click Login" style="width:366px;" />
+    </figure>
+    <figure>
+      <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-4-550x1024.webp" 
+           alt="Solve CAPTCHA" style="width:366px;" />
     </figure>
   </div>
 </section>
