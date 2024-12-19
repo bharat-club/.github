@@ -1,9 +1,10 @@
 <section>
   <h1>Bharat Club</h1>
-  <ul><a href="https://bharatclub.forum/login/">Bharat Club Login</a></ul>
-  <ul><a href="https://bharatclub.forum/register/">Bharat Club Register</a></ul>
-  <ul><a href="https://bharatclub.forum/login/download/">Bharat Club Download</a></ul>
-  <ul><a href="https://bharatclub.forum/login/app/">Bharat Club App</a></ul>
+  <h2>Quick Access Links</h2>
+  <h3><ul><a href="https://bharatclub.forum/login/">Bharat Club Login</a></ul></h3>
+  <h3><ul><a href="https://bharatclub.forum/register/">Bharat Club Register</a></ul></h3>
+  <h3><ul><a href="https://bharatclub.forum/download/">Bharat Club Download</a></ul></h3>
+  <h3><ul><a href="https://bharatclub.forum/app/">Bharat Club App</a></ul></h3>
 </section>
 <section>
   <h2>What is Bharat Club?</h2>
