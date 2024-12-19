@@ -31,12 +31,12 @@
   <p>2. Enter your registered mobile number and password.</p>
   <div style="display:flex; justify-content:space-between;">
     <figure>
-      <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-1-541x1024.webp" 
-           alt="Enter Login Details" style="width:366px;" />
-    </figure>
-    <figure>
       <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-2-541x1024.webp" 
            alt="Login Details" style="width:366px;" />
+    </figure>
+    <figure>
+      <img src="https://bharatclub.forum/wp-content/uploads/2024/12/login-1-541x1024.webp" 
+           alt="Enter Login Details" style="width:366px;" />
     </figure>
   </div>
   <p>3. Solve the CAPTCHA and click “Login” to access your account.</p>
