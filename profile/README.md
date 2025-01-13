@@ -1,5 +1,5 @@
 <section>
-  <h1>Bharat Club LoginN</h1>
+  <h1>Bharat Club Login</h1>
   <h2>Quick Access Links</h2>
   <h3><ul><a href="https://bharatclub.forum/login/">Bharat Club Login</a></ul></h3>
   <h3><ul><a href="https://bharatclub.forum/register/">Bharat Club Register</a></ul></h3>
