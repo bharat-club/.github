@@ -1,10 +1,10 @@
 # Bharat Club Login
 
 ## Quick Access Links:
-- [Bharat Club Login](https://gamelogin.in/bharat-club/login)
-- [Bharat Club Register](https://gamelogin.in/bharat-club/register)
-- [Bharat Club Download](https://gamelogin.in/bharat-club/download)
-- [Bharat Club App](https://gamelogin.in/bharat-club/app)
+- [Bharat Club Login](https://gamelogin.in/bharat-club/)
+- [Bharat Club Register](https://gamelogin.in/bharat-club/)
+- [Bharat Club Download](https://gamelogin.in/bharat-club/)
+- [Bharat Club App](https://gamelogin.in/bharat-club/)
 
 ## What is Bharat Club?
 
@@ -12,7 +12,7 @@ Bharat Club is a dynamic gaming platform offering a wide range of exciting oppor
 
 ## How to Log In to Your Bharat Club Account
 
-1. Visit the [Bharat Club website](https://gamelogin.in/bharat-club/login) and open the login page.
+1. Visit the [Bharat Club website](https://gamelogin.in/bharat-club/) and open the login page.
 2. Enter your registered mobile number and password.
 3. Solve the CAPTCHA and click "Login" to access your account.
 
@@ -20,7 +20,7 @@ Bharat Club is a dynamic gaming platform offering a wide range of exciting oppor
 
 Creating an account on Bharat Club is simple. Use an unregistered mobile number and follow these steps:
 
-1. Visit the official [Bharat Club registration page](https://gamelogin.in/bharat-club/register).
+1. Visit the official [Bharat Club registration page](https://gamelogin.in/bharat-club/).
 2. Enter your mobile number and set a strong password.
 3. Re-enter the password to confirm it.
 4. Add an invitation code (mandatory): **846612564037**.
@@ -31,7 +31,7 @@ Creating an account on Bharat Club is simple. Use an unregistered mobile number 
 
 1. Go to the homepage of Bharat Club.
 2. After logging in, locate the download option at the top of the homepage.
-3. Click on it, and the [Bharat Club app](https://gamelogin.in/bharat-club/app) will start downloading.
+3. Click on it, and the [Bharat Club app](https://gamelogin.in/bharat-club/) will start downloading.
 
 ## Frequently Asked Questions
 
@@ -78,19 +78,19 @@ No, **Bharat Club** games are designed for online play and require real-time int
 ## Keywords
 
 - [Bharat Club](https://gamelogin.in/bharat-club/)
-- [Bharat Club Login](https://gamelogin.in/bharat-club/login)
-- [Bharat Club Game](https://gamelogin.in/bharat-club/game)
-- [Bharat Club Download](https://gamelogin.in/bharat-club/download)
-- [Bharat Club Lottery](https://gamelogin.in/bharat-club/lottery)
+- [Bharat Club Login](https://gamelogin.in/bharat-club/)
+- [Bharat Club Game](https://gamelogin.in/bharat-club/)
+- [Bharat Club Download](https://gamelogin.in/bharat-club/)
+- [Bharat Club Lottery](https://gamelogin.in/bharat-club/)
 - [Bharat Club Game Login](https://gamelogin.in/bharat-club/game-login)
-- [Bharat Club Hack Mod Apk](https://gamelogin.in/bharat-club/hack-mod-apk)
-- [Bharat Club App](https://gamelogin.in/bharat-club/app)
-- [Bharat Club Gift Code](https://gamelogin.in/bharat-club/gift-code)
-- [Bharat Club Game Download](https://gamelogin.in/bharat-club/game-download)
-- [Bharat Club Color Trading](https://gamelogin.in/bharat-club/color-trading)
-- [Bharat Club Invite Code](https://gamelogin.in/bharat-club/invite-code)
-- [Bharat Club Hack](https://gamelogin.in/bharat-club/hack)
-- [Nutan Bharat Club](https://gamelogin.in/bharat-club/nutan)
-- [Bharat Club Register](https://gamelogin.in/bharat-club/register)
-- [Bharat Club Hack Download](https://gamelogin.in/bharat-club/hack-download)
-- [Bharat Club Apk Download](https://gamelogin.in/bharat-club/apk-download)
+- [Bharat Club Hack Mod Apk](https://gamelogin.in/bharat-club/)
+- [Bharat Club App](https://gamelogin.in/bharat-club/)
+- [Bharat Club Gift Code](https://gamelogin.in/bharat-club/)
+- [Bharat Club Game Download](https://gamelogin.in/bharat-club/)
+- [Bharat Club Color Trading](https://gamelogin.in/bharat-club/)
+- [Bharat Club Invite Code](https://gamelogin.in/bharat-club/)
+- [Bharat Club Hack](https://gamelogin.in/bharat-club/)
+- [Nutan Bharat Club](https://gamelogin.in/bharat-club/)
+- [Bharat Club Register](https://gamelogin.in/bharat-club/)
+- [Bharat Club Hack Download](https://gamelogin.in/bharat-club/)
+- [Bharat Club Apk Download](https://gamelogin.in/bharat-club/)
